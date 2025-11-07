@@ -14,7 +14,7 @@
 
 </br>
 🌈 Step 2 : Visualize
-
+</br>
 🌈 Step 3: Outlier detection
 
 
@@ -26,7 +26,7 @@
 
               3.Local Outlier Factor 
 
-
+</br>
 
 🌈 Step 4: Feature Engineering
 
@@ -45,7 +45,7 @@
 
       📚 4.7 : Resolve overlapping windows
 
-
+</br>
 
 🌈 Step 5 : Predictive modelling
 
@@ -58,3 +58,4 @@
   
 
 🌈 Step 6: Model Evaluation and Validation
+</br>
