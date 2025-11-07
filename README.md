@@ -2,7 +2,7 @@
 🌈 Step 1: Data Processing
 
 
-<t> ✨ Read accelerometer and gyroscope data
+<\t> ✨ Read accelerometer and gyroscope data
 
   ✨ Create required dataframe columns such as participant, label and category
 
