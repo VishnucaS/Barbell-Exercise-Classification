@@ -1,4 +1,4 @@
-The Deatiled Code  is available here: https://www.kaggle.com/code/vish908/gym-exercise-classification
+The Detailed Code  is available here: https://www.kaggle.com/code/vish908/gym-exercise-classification
 </br>
 </br>
 🌈 Step 1: Data Processing
