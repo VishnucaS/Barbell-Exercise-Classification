@@ -2,15 +2,15 @@
 🌈 Step 1: Data Processing
 
 
-</t> ✨ Read accelerometer and gyroscope data
+      ✨ Read accelerometer and gyroscope data
 
-  ✨ Create required dataframe columns such as participant, label and category
+      ✨ Create required dataframe columns such as participant, label and category
 
-  ✨ Merge the accelerometer data and gyroscope data
+      ✨ Merge the accelerometer data and gyroscope data
 
-  ✨ Resample the merged data
+      ✨ Resample the merged data
 
-  ✨ Export the preprocessed data
+      ✨ Export the preprocessed data
 
 
 🌈 Step 2 : Visualize
