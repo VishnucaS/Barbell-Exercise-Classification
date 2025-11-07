@@ -1,4 +1,4 @@
-
+The detailed Execution  is available here: https://www.kaggle.com/code/vish908/gym-exercise-classification
 🌈 Step 1: Data Processing
 
 
