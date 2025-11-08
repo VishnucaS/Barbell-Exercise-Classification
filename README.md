@@ -73,6 +73,6 @@ The Detailed Code  is available here: https://www.kaggle.com/code/vish908/gym-ex
 
 &nbsp;&nbsp;&nbsp; ✨ Visualization of training/validation loss curves and class-specific performance helped detect overfitting 
 
-&nbsp;&nbsp;&nbsp; ✨ Finally, I compared the CNN + BiLSTM model against other approaches, demonstrating the advantage of modeling both spatial and </br></br>
+&nbsp;&nbsp;&nbsp; ✨ Finally, I compared the CNN + BiLSTM model against other approaches, demonstrating the advantage of </br>modeling both spatial and 
             temporal dependencies for high-fidelity exercise classification
 </br>
