@@ -64,7 +64,8 @@ The Detailed Code  is available here: https://www.kaggle.com/code/vish908/gym-ex
 &nbsp;&nbsp;&nbsp; ✨ Carry out forward feature selection utilizing decision tree and identify the best 10 features and their scores
   
 &nbsp;&nbsp;&nbsp; ✨ Grid search Across different machine learning Approaches 
-  
+</br>
+  </br>
 
 🌈 Step 6: Model Evaluation and Validation
 
@@ -72,6 +73,6 @@ The Detailed Code  is available here: https://www.kaggle.com/code/vish908/gym-ex
 
 &nbsp;&nbsp;&nbsp; ✨ Visualization of training/validation loss curves and class-specific performance helped detect overfitting 
 
-&nbsp;&nbsp;&nbsp; ✨ Finally, I compared the CNN + BiLSTM model against other approaches, demonstrating the advantage of modeling both spatial and 
+&nbsp;&nbsp;&nbsp; ✨ Finally, I compared the CNN + BiLSTM model against other approaches, demonstrating the advantage of modeling both spatial and </br></br>
             temporal dependencies for high-fidelity exercise classification
 </br>
